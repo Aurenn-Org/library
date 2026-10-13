@@ -12,7 +12,7 @@ Once merged, the version bumps and a new release is published automatically.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Vendox-Automation/library.git
+git clone https://github.com/Aurenn-Org/library.git
 cd library
 ```
 
@@ -182,13 +182,13 @@ python -m black --target-version py312 src/
 ## Installing the latest version
 
 ```bash
-pip install git+https://github.com/Vendox-Automation/library --force-reinstall
+pip install git+https://github.com/Aurenn-Org/library --force-reinstall
 ```
 
 To pin a specific version:
 ```bash
-pip install git+https://github.com/Vendox-Automation/library@v0.8.29
+pip install git+https://github.com/Aurenn-Org/library@v0.8.29
 ```
 
 You can find all available versions on the
-[Releases page](https://github.com/Vendox-Automation/library/releases).
+[Releases page](https://github.com/Aurenn-Org/library/releases).
